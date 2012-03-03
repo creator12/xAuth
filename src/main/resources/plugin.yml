@@ -1,8 +1,8 @@
-name: xAuth
-main: com.cypherx.xauth.xAuth
+name: MyAuth
+main: com.creator12.xauth.xAuth
 version: 2.0b4.3
 description: Offline-Mode Security Suite
-author: CypherX
+author: creator12
 commands:
     register:
         description: Create an account linked to your player name
